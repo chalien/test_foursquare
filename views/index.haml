@@ -1,0 +1,13 @@
+%h1
+  Lista de lugares foursquare
+-venues.each  do |venue|
+  %div
+    %strong
+      nombre:
+    = venue.name
+    %strong
+      categoria:
+    = venue.categories
+  %div
+    id
+    = venue.id
