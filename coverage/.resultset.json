@@ -1,0 +1,75 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/charlypalencia/projects/test_fourquare/lib/colombia_trip/colombia_trip.rb": [
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/charlypalencia/projects/test_fourquare/lib/colombia_trip/places.rb": [
+        1,
+        1,
+        1,
+        null,
+        1,
+        3,
+        null,
+        null,
+        1,
+        2,
+        null,
+        null,
+        1,
+        1,
+        2,
+        2,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/charlypalencia/projects/test_fourquare/lib/colombia_trip/roulette.rb": [
+
+      ],
+      "/Users/charlypalencia/projects/test_fourquare/lib/colombia_trip/strategies/foursquare.rb": [
+        1,
+        1,
+        1,
+        null,
+        1,
+        3,
+        3,
+        3,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        2,
+        null,
+        null,
+        null,
+        null,
+        null,
+        2,
+        2,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    "timestamp": 1392488512
+  }
+}

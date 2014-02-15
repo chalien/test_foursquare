@@ -1,14 +1,9 @@
+require 'sinatra'
 require 'rubygems'
 require 'bundler'
 
 Bundler.require
 Dotenv.load
-  client = Foursquare2::Client.new(
-    client_id: ENV["API_CLIENT"],
-    client_secret: ENV["CLIENT_SECRET"],
-     api_version: "20140130",
-     isFuzzed: true
-  )
 
 get '/' do
  result = client.search_venues(
