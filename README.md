@@ -1,8 +1,9 @@
-test_foursquare
+Test Foursquare
 ===============
 
 
 ColombiaTrip
+-------------
  
  Generate two type of tourist place lists at colombia:
  
