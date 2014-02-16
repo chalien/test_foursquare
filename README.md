@@ -9,8 +9,9 @@ ColombiaTrip
  1. places form city [and geoloation].
  2. places from city random 
  
+
  
-      ColombiaTrip::Places.around "city"
+        ColombiaTrip::Places.around "city"
     
-      ColombiaTrip::Places.random "city"
+        ColombiaTrip::Places.random "city"
 
